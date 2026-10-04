@@ -1,0 +1,9 @@
+ticket_id,customer_id,category,priority,status,created_date,description
+S001,C001,payment,medium,closed,2026-09-02,Customer reported delayed payment confirmation
+S002,C002,refund,high,closed,2026-09-04,Customer requested refund
+S003,C003,general,low,closed,2026-09-05,Customer asked about billing
+S004,C004,payment,high,open,2026-09-07,Multiple payment failures reported
+S005,C005,refund,high,closed,2026-09-09,Customer requested refund
+S006,C006,payment,high,open,2026-09-10,Repeated payment failures
+S007,C007,general,low,closed,2026-09-11,Customer requested account information
+S008,C009,refund,medium,closed,2026-09-13,Customer requested refund

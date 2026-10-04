@@ -1,0 +1,21 @@
+# LLM + Agent Orchestration
+langchain
+langchain-openai
+langgraph
+
+# RAG / Vector Store
+chromadb
+langchain-chroma
+
+# Data + Database
+pandas
+
+# API
+fastapi
+uvicorn[standard]
+
+# Configuration
+python-dotenv
+
+# Utilities
+pydantic

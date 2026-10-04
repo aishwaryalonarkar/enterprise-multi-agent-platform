@@ -1,0 +1,11 @@
+customer_id,name,state,segment,signup_date,status
+C001,Alice Johnson,TX,Premium,2025-01-15,active
+C002,Bob Smith,NY,Standard,2025-02-20,active
+C003,Carol Davis,NJ,Premium,2025-03-10,active
+C004,David Wilson,TX,Standard,2025-04-12,active
+C005,Emma Brown,CA,Premium,2025-05-18,active
+C006,Frank Miller,NJ,Standard,2025-06-22,inactive
+C007,Grace Taylor,TX,Premium,2025-07-01,active
+C008,Henry Anderson,CA,Standard,2025-07-15,active
+C009,Irene Thomas,NY,Premium,2025-08-03,active
+C010,Jack Jackson,TX,Standard,2025-08-20,active
